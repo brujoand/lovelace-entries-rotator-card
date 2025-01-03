@@ -1,9 +1,5 @@
 {
-  "name": "Entries rotator card",
-  "content_in_root": false,
-  "country": "worldwide",
-  "domains": ["lovelace"],
-  "homeassistant": "2023.1.0",
-  "render_readme": true,
-  "filename": "entries_rotator_card.jinja"
+  "name": "entries-rotator",
+  "filename": "entries-rotator-card.js",
+  "content_in_root": true
 }
