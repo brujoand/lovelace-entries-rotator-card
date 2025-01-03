@@ -1,5 +1,7 @@
 {
   "name": "entries-rotator",
   "filename": "entries-rotator-card.js",
-  "content_in_root": true
+  "content_in_root": true,
+  "homeassistant": "2022.8.0",
+  "render_readme": true
 }
