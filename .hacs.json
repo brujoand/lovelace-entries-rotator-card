@@ -4,5 +4,6 @@
   "country": "worldwide",
   "domains": ["lovelace"],
   "homeassistant": "2023.1.0",
-  "render_readme": true
+  "render_readme": true,
+  "filename": "entries_rotator_card.jinja"
 }
